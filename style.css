@@ -6,16 +6,18 @@ div{
     margin-top: 15px;
 }
 .image-section{
-    width:30px;
-    height: 20px;
+    
     display:flex;
     justify-content: center;
 }
 .section-style{
-     width:30px;
-    height: 20px;
+     
     margin-right: 25px;
     margin-left:25px;
-    <background-color: white;
+    background-color: white;
+}
+img{
+    width: 500px;
+    height: 300px;
 }
 
